@@ -1,6 +1,6 @@
 ## Hi there, I'm Hebert Almeida <img src="https://raw.githubusercontent.com/SatYu26/SatYu26/master/Assets/Hi.gif" width="40" height="40"/>
 
-<p>- 🔭 I’m currently working on AWS as a Technical Account Manager TAM</p>
+<p>- 🔭 I’m currently working at AWS as a Technical Account Manager TAM</p>
 <p>- 🌱 I’m currently learning Machine learning, and for Solutions Architect certification</p>
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=hebertwla&theme=dark&show_icons=true)
