@@ -1,17 +1,12 @@
-<div>
-<a href="https://github.com/hebertwla">
-<img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?hebertwla&layout=compact&langs_count=7&theme=dracula"/>
-<img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api?hebertwla&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-</div>
+# Hi there, I'm Hebert Almeida <img src="https://raw.githubusercontent.com/SatYu26/SatYu26/master/Assets/Hi.gif" width="40" height="40"/>
+
+<p>I’m currently working on AWS as a Technical Account Manager TAM</p>
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=hebertwla&theme=dark&show_icons=true)
 
 
-<!--[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=hebertwla&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)-->
+<!-- Link icons https://github.com/tandpfun/skill-icons/blob/main/readme.md-->
+[![My Skills](https://skillicons.dev/icons?i=aws,python,linux,nginx,kubernetes&perline=5)](https://skillicons.dev)
 
-## Contatos
-<div>
-<a href="https://www.youtube.com/seu-canal-youtube-aqui" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
-<a href="https://instagram.com/seu-usuário-instagram-aqui" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-<a href="https://www.twitch.tv/seu-usuário-aqui" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white" target="_blank"></a>
-<a href = "mailto:contato@seu-usuário-aqui"><img loading="lazy" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-<a href="https://www.linkedin.com/in/seu-usuário-linkedln-aqui" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>   
-</div>
+
+<!-- https://gist.github.com/rxaviers/7360908 -->
